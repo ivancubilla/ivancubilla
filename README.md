@@ -13,6 +13,6 @@ Others: Git, CI/CD
 
 📫 Let's connect:
 
-- [LinkedIn](https://www.linkedin.com/in/ivancubilla)
+- [LinkedIn](https://www.linkedin.com/in/ivan-cubilla)
 
 - [Email](mailto:ivancubilla1@gmail.com)
