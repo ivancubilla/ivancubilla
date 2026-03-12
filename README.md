@@ -5,7 +5,7 @@ I'm a manual software tester with a strong passion for software quality. My prim
 🚀 Technologies I work with:
 Languages: JavaScript, Python, Java, TypeScript
 
-Tools: Selenium, Cypress, TestNG, Jenkins, Playwright
+Tools: Selenium, Cypress, TestNG, Playwright
 
 Methodologies: TDD, BDD, Agile
 
