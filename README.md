@@ -1,18 +1,17 @@
-Hi there! I'm Iván 👋
+### Hi there, I'm Iván 👋
 
-I'm a manual software tester with a strong passion for software quality. My primary focus is on finding bugs and ensuring the overall functionality of applications. While I specialize in manual testing, I am currently learning the latest technologies for test automation to improve my efficiency and expand my skill set. I'm excited to learn new tools and techniques to enhance my testing capabilities and keep up with industry trends.
+QA Engineer focused on building test automation that scales. I work primarily with **Playwright + TypeScript** and I'm currently exploring how AI agents (MCP, Playwright Agents) are changing the way we plan, generate, and heal tests.
 
-🚀 Technologies I work with:
-Languages: JavaScript, Python, Java, TypeScript
+#### 🔭 What I'm working on
+- Building **[ai-powered-qa-framework](https://github.com/ivancubilla/ai-powered-qa-framework)** — a Playwright framework with AI-assisted test generation, CI sharding, and a risk-based testing strategy.
+- Documenting where AI agents actually help (and where they fail) in real QA workflows.
 
-Tools: Selenium, Cypress, TestNG, Playwright
+#### 🛠 Stack
+- **Testing:** Playwright, TypeScript, Python, Selenium
+- **CI/CD:** GitHub Actions
+- **Exploring:** MCP (Model Context Protocol), Playwright Agents, LLM quality evaluation
 
-Methodologies: TDD, BDD, Agile
-
-Others: Git, CI/CD
-
-📫 Let's connect:
-
-- [LinkedIn](https://www.linkedin.com/in/ivan-cubilla)
-
+#### 📫 Let's connect
+- [LinkedIn](https://www.linkedin.com/in/ivancubilla)
+- 
 - [Email](mailto:ivancubilla1@gmail.com)
